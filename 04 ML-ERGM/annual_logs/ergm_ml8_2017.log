@@ -1,0 +1,9 @@
+ERGM fit log
+Started: 2026-10-27 21:50:31.556106
+
+
+Starting ergm()...
+
+WARNING: The number of observed dyads in this network is ill-defined due to complex constraints on the sample space. Disable this warning with ‘options(ergm.loglik.warn_dyads=FALSE)’. 
+
+WARNING: The number of observed dyads in this network is ill-defined due to complex constraints on the sample space. Disable this warning with ‘options(ergm.loglik.warn_dyads=FALSE)’. 

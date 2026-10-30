@@ -1,0 +1,364 @@
+ERGM message log
+Started: 2026-10-27 22:01:48.15376
+
+Model and/or observational constraints are not dyad-independent. Dyad imputation cannot be used. Please ensure your LHS network satisfies all constraints.
+Starting contrastive divergence estimation via CD-MCMLE:
+Iteration 1 of at most 60:
+Convergence test P-value:3.9e-224
+1 The log-likelihood improved by 0.3692.
+Iteration 2 of at most 60:
+Convergence test P-value:2e-77
+1 The log-likelihood improved by 0.105.
+Iteration 3 of at most 60:
+Convergence test P-value:1.4e-16
+1 The log-likelihood improved by 0.02681.
+Iteration 4 of at most 60:
+Convergence test P-value:8.2e-05
+1 The log-likelihood improved by 0.01104.
+Iteration 5 of at most 60:
+Convergence test P-value:9.8e-01
+Convergence detected. Stopping.
+1 The log-likelihood improved by 0.001741.
+Finished CD.
+Starting Monte Carlo maximum likelihood estimation (MCMLE):
+Iteration 1 of at most 60:
+Sampling ■■■■■■                            18% |  ETA:  5s
+Sampling ■■■■■■■                           21% |  ETA:  5s
+Sampling ■■■■■■■■                          23% |  ETA:  5s
+Sampling ■■■■■■■■■                         26% |  ETA:  5s
+Sampling ■■■■■■■■■■                        29% |  ETA:  5s
+Sampling ■■■■■■■■■■■                       32% |  ETA:  5s
+Sampling ■■■■■■■■■■■                       35% |  ETA:  4s
+Sampling ■■■■■■■■■■■■                      38% |  ETA:  4s
+Sampling ■■■■■■■■■■■■■                     40% |  ETA:  4s
+Sampling ■■■■■■■■■■■■■■                    43% |  ETA:  4s
+Sampling ■■■■■■■■■■■■■■■                   46% |  ETA:  4s
+Sampling ■■■■■■■■■■■■■■■■                  49% |  ETA:  4s
+Sampling ■■■■■■■■■■■■■■■■■                 52% |  ETA:  3s
+Sampling ■■■■■■■■■■■■■■■■■                 54% |  ETA:  3s
+Sampling ■■■■■■■■■■■■■■■■■■                57% |  ETA:  3s
+Sampling ■■■■■■■■■■■■■■■■■■■               60% |  ETA:  3s
+Sampling ■■■■■■■■■■■■■■■■■■■■              63% |  ETA:  3s
+Sampling ■■■■■■■■■■■■■■■■■■■■■             65% |  ETA:  3s
+Sampling ■■■■■■■■■■■■■■■■■■■■■             68% |  ETA:  2s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■            70% |  ETA:  2s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■■           73% |  ETA:  2s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■■■          76% |  ETA:  2s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■■■■         79% |  ETA:  2s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■■■■         82% |  ETA:  1s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■■■■■        84% |  ETA:  1s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■■■■■■       88% |  ETA:  1s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■■■■■■■      90% |  ETA:  1s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■     93% |  ETA:  1s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■    95% |  ETA:  0s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■    98% |  ETA:  0s
+1 Optimizing with step length 0.6739.
+The log-likelihood improved by 3.2975.
+Estimating equations are not within tolerance region.
+Iteration 2 of at most 60:
+Sampling ■■■■■■■■■■■                       35% |  ETA:  2s
+Sampling ■■■■■■■■■■■■■                     40% |  ETA:  2s
+Sampling ■■■■■■■■■■■■■■                    45% |  ETA:  2s
+Sampling ■■■■■■■■■■■■■■■■■■■■              64% |  ETA:  1s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■            69% |  ETA:  1s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■■           75% |  ETA:  1s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■■■■         80% |  ETA:  1s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■■■■■■       85% |  ETA:  1s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■■■■■■■      90% |  ETA:  0s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■     95% |  ETA:  0s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■   99% |  ETA:  0s
+1 Optimizing with step length 1.0000.
+The log-likelihood improved by 0.8203.
+Estimating equations are not within tolerance region.
+Iteration 3 of at most 60:
+1 Optimizing with step length 1.0000.
+The log-likelihood improved by 0.1265.
+Estimating equations are not within tolerance region.
+Iteration 4 of at most 60:
+1 Optimizing with step length 1.0000.
+The log-likelihood improved by 0.0869.
+Convergence test p-value: 1.0000. Not converged with 99% confidence; increasing sample size.
+Iteration 5 of at most 60:
+1 Optimizing with step length 1.0000.
+The log-likelihood improved by 0.1444.
+Estimating equations are not within tolerance region.
+Iteration 6 of at most 60:
+Sampling ■■■■■■■■■■■                       35% |  ETA:  2s
+Sampling ■■■■■■■■■■■■                      38% |  ETA:  2s
+Sampling ■■■■■■■■■■■■■■                    42% |  ETA:  2s
+Sampling ■■■■■■■■■■■■■■■                   46% |  ETA:  2s
+Sampling ■■■■■■■■■■■■■■■■                  50% |  ETA:  2s
+Sampling ■■■■■■■■■■■■■■■■■                 54% |  ETA:  2s
+Sampling ■■■■■■■■■■■■■■■■■■                57% |  ETA:  2s
+Sampling ■■■■■■■■■■■■■■■■■■■               61% |  ETA:  2s
+Sampling ■■■■■■■■■■■■■■■■■■■■■             65% |  ETA:  1s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■            69% |  ETA:  1s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■■           73% |  ETA:  1s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■■■          77% |  ETA:  1s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■■■■         81% |  ETA:  1s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■■■■■        85% |  ETA:  1s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■■■■■■       88% |  ETA:  1s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■     92% |  ETA:  0s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■    96% |  ETA:  0s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■  100% |  ETA:  0s
+1 Optimizing with step length 1.0000.
+The log-likelihood improved by 0.1598.
+Estimating equations are not within tolerance region.
+Estimating equations did not move closer to tolerance region more than 1 time(s) in 4 steps; increasing sample size.
+Iteration 7 of at most 60:
+Sampling ■■■■■■■■■                         27% |  ETA:  3s
+Sampling ■■■■■■■■■■                        29% |  ETA:  3s
+Sampling ■■■■■■■■■■■                       32% |  ETA:  3s
+Sampling ■■■■■■■■■■■                       35% |  ETA:  3s
+Sampling ■■■■■■■■■■■■                      38% |  ETA:  3s
+Sampling ■■■■■■■■■■■■■                     40% |  ETA:  3s
+Sampling ■■■■■■■■■■■■■■                    43% |  ETA:  3s
+Sampling ■■■■■■■■■■■■■■■                   45% |  ETA:  3s
+Sampling ■■■■■■■■■■■■■■■                   48% |  ETA:  3s
+Sampling ■■■■■■■■■■■■■■■■                  51% |  ETA:  3s
+Sampling ■■■■■■■■■■■■■■■■■                 54% |  ETA:  3s
+Sampling ■■■■■■■■■■■■■■■■■■                56% |  ETA:  3s
+Sampling ■■■■■■■■■■■■■■■■■■■               59% |  ETA:  3s
+Sampling ■■■■■■■■■■■■■■■■■■■■              62% |  ETA:  2s
+Sampling ■■■■■■■■■■■■■■■■■■■■              65% |  ETA:  2s
+Sampling ■■■■■■■■■■■■■■■■■■■■■             67% |  ETA:  2s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■            70% |  ETA:  2s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■■           73% |  ETA:  2s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■■■          76% |  ETA:  2s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■■■■         78% |  ETA:  1s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■■■■         81% |  ETA:  1s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■■■■■        84% |  ETA:  1s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■■■■■■       87% |  ETA:  1s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■■■■■■■      89% |  ETA:  1s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■     92% |  ETA:  1s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■     95% |  ETA:  0s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■    97% |  ETA:  0s
+Sampling ■■■■■■■■■■                        29% |  ETA:  3s
+Sampling ■■■■■■■■■■                        31% |  ETA:  3s
+Sampling ■■■■■■■■■■■                       34% |  ETA:  3s
+Sampling ■■■■■■■■■■■■                      37% |  ETA:  3s
+Sampling ■■■■■■■■■■■■■                     40% |  ETA:  3s
+Sampling ■■■■■■■■■■■■■■                    43% |  ETA:  3s
+Sampling ■■■■■■■■■■■■■■■                   46% |  ETA:  3s
+Sampling ■■■■■■■■■■■■■■■■                  49% |  ETA:  3s
+Sampling ■■■■■■■■■■■■■■■■                  52% |  ETA:  3s
+Sampling ■■■■■■■■■■■■■■■■■                 55% |  ETA:  3s
+Sampling ■■■■■■■■■■■■■■■■■■                57% |  ETA:  2s
+Sampling ■■■■■■■■■■■■■■■■■■■               60% |  ETA:  2s
+Sampling ■■■■■■■■■■■■■■■■■■■■              63% |  ETA:  2s
+Sampling ■■■■■■■■■■■■■■■■■■■■■             66% |  ETA:  2s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■            69% |  ETA:  2s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■■           72% |  ETA:  2s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■■           74% |  ETA:  2s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■■■          77% |  ETA:  1s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■■■■         80% |  ETA:  1s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■■■■■        83% |  ETA:  1s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■■■■■■       86% |  ETA:  1s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■■■■■■■      89% |  ETA:  1s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■     92% |  ETA:  1s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■     95% |  ETA:  0s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■    98% |  ETA:  0s
+1 Optimizing with step length 1.0000.
+The log-likelihood improved by 0.0805.
+Convergence test p-value: 0.9892. Not converged with 99% confidence; increasing sample size.
+Iteration 8 of at most 60:
+Sampling ■■■■■■■■■■■                       35% |  ETA:  2s
+Sampling ■■■■■■■■■■■■                      38% |  ETA:  2s
+Sampling ■■■■■■■■■■■■■                     42% |  ETA:  2s
+Sampling ■■■■■■■■■■■■■■■                   45% |  ETA:  2s
+Sampling ■■■■■■■■■■■■■■■■                  49% |  ETA:  2s
+Sampling ■■■■■■■■■■■■■■■■■                 53% |  ETA:  2s
+Sampling ■■■■■■■■■■■■■■■■■■                57% |  ETA:  2s
+Sampling ■■■■■■■■■■■■■■■■■■■               61% |  ETA:  2s
+Sampling ■■■■■■■■■■■■■■■■■■■■              64% |  ETA:  1s
+Sampling ■■■■■■■■■■■■■■■■■■■■■             68% |  ETA:  1s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■■           72% |  ETA:  1s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■■■          76% |  ETA:  1s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■■■■         79% |  ETA:  1s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■■■■■        83% |  ETA:  1s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■■■■■■       87% |  ETA:  1s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■■■■■■■      91% |  ETA:  0s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■     95% |  ETA:  0s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■   98% |  ETA:  0s
+Sampling ■■■■■■■■■■■                       35% |  ETA:  2s
+Sampling ■■■■■■■■■■■■                      38% |  ETA:  2s
+Sampling ■■■■■■■■■■■■■                     42% |  ETA:  2s
+Sampling ■■■■■■■■■■■■■■■                   45% |  ETA:  2s
+Sampling ■■■■■■■■■■■■■■■■                  49% |  ETA:  2s
+Sampling ■■■■■■■■■■■■■■■■■                 53% |  ETA:  2s
+Sampling ■■■■■■■■■■■■■■■■■■                57% |  ETA:  2s
+Sampling ■■■■■■■■■■■■■■■■■■■               61% |  ETA:  2s
+Sampling ■■■■■■■■■■■■■■■■■■■■              65% |  ETA:  1s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■            68% |  ETA:  1s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■■           72% |  ETA:  1s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■■■          76% |  ETA:  1s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■■■■         80% |  ETA:  1s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■■■■■        84% |  ETA:  1s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■■■■■■       87% |  ETA:  1s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■■■■■■■      91% |  ETA:  0s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■     95% |  ETA:  0s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■   99% |  ETA:  0s
+Sampling ■■■■                              11% |  ETA:  9s
+Sampling ■■■■■                             12% |  ETA: 10s
+Sampling ■■■■■                             12% |  ETA: 11s
+Sampling ■■■■■                             14% |  ETA: 11s
+Sampling ■■■■■                             15% |  ETA: 11s
+Sampling ■■■■■■                            16% |  ETA: 11s
+Sampling ■■■■■■                            17% |  ETA: 12s
+Sampling ■■■■■■                            18% |  ETA: 12s
+Sampling ■■■■■■■                           19% |  ETA: 12s
+Sampling ■■■■■■■                           20% |  ETA: 12s
+Sampling ■■■■■■■                           22% |  ETA: 12s
+Sampling ■■■■■■■■                          23% |  ETA: 12s
+Sampling ■■■■■■■■                          24% |  ETA: 12s
+Sampling ■■■■■■■■                          25% |  ETA: 11s
+Sampling ■■■■■■■■■                         26% |  ETA: 11s
+Sampling ■■■■■■■■■                         27% |  ETA: 11s
+Sampling ■■■■■■■■■                         28% |  ETA: 11s
+Sampling ■■■■■■■■■■                        29% |  ETA: 11s
+Sampling ■■■■■■■■■■                        31% |  ETA: 11s
+Sampling ■■■■■■■■■■                        32% |  ETA: 11s
+Sampling ■■■■■■■■■■■                       33% |  ETA: 11s
+Sampling ■■■■■■■■■■■                       34% |  ETA: 11s
+Sampling ■■■■■■■■■■■                       35% |  ETA: 11s
+Sampling ■■■■■■■■■■■■                      36% |  ETA: 10s
+Sampling ■■■■■■■■■■■■                      37% |  ETA: 10s
+Sampling ■■■■■■■■■■■■                      38% |  ETA: 10s
+Sampling ■■■■■■■■■■■■■                     39% |  ETA: 10s
+Sampling ■■■■■■■■■■■■■                     40% |  ETA: 10s
+Sampling ■■■■■■■■■■■■■                     42% |  ETA: 10s
+Sampling ■■■■■■■■■■■■■■                    43% |  ETA:  9s
+Sampling ■■■■■■■■■■■■■■                    44% |  ETA:  9s
+Sampling ■■■■■■■■■■■■■■■                   45% |  ETA:  9s
+Sampling ■■■■■■■■■■■■■■■                   46% |  ETA:  9s
+Sampling ■■■■■■■■■■■■■■■                   47% |  ETA:  9s
+Sampling ■■■■■■■■■■■■■■■■                  48% |  ETA:  9s
+Sampling ■■■■■■■■■■■■■■■■                  50% |  ETA:  8s
+Sampling ■■■■■■■■■■■■■■■■                  51% |  ETA:  8s
+Sampling ■■■■■■■■■■■■■■■■■                 52% |  ETA:  8s
+Sampling ■■■■■■■■■■■■■■■■■                 53% |  ETA:  8s
+Sampling ■■■■■■■■■■■■■■■■■                 54% |  ETA:  8s
+Sampling ■■■■■■■■■■■■■■■■■■                55% |  ETA:  7s
+Sampling ■■■■■■■■■■■■■■■■■■                57% |  ETA:  7s
+Sampling ■■■■■■■■■■■■■■■■■■                58% |  ETA:  7s
+Sampling ■■■■■■■■■■■■■■■■■■■               59% |  ETA:  7s
+Sampling ■■■■■■■■■■■■■■■■■■■               60% |  ETA:  7s
+Sampling ■■■■■■■■■■■■■■■■■■■               61% |  ETA:  7s
+Sampling ■■■■■■■■■■■■■■■■■■■■              62% |  ETA:  6s
+Sampling ■■■■■■■■■■■■■■■■■■■■              64% |  ETA:  6s
+Sampling ■■■■■■■■■■■■■■■■■■■■              65% |  ETA:  6s
+Sampling ■■■■■■■■■■■■■■■■■■■■■             66% |  ETA:  6s
+Sampling ■■■■■■■■■■■■■■■■■■■■■             67% |  ETA:  6s
+Sampling ■■■■■■■■■■■■■■■■■■■■■             68% |  ETA:  5s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■            69% |  ETA:  5s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■            70% |  ETA:  5s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■            72% |  ETA:  5s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■■           73% |  ETA:  5s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■■           74% |  ETA:  4s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■■           75% |  ETA:  4s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■■■          76% |  ETA:  4s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■■■          77% |  ETA:  4s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■■■■         78% |  ETA:  4s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■■■■         79% |  ETA:  4s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■■■■         81% |  ETA:  3s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■■■■■        82% |  ETA:  3s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■■■■■        83% |  ETA:  3s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■■■■■        84% |  ETA:  3s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■■■■■        85% |  ETA:  3s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■■■■■■       86% |  ETA:  2s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■■■■■■       87% |  ETA:  2s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■■■■■■■      88% |  ETA:  2s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■■■■■■■      90% |  ETA:  2s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■■■■■■■      91% |  ETA:  2s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■     92% |  ETA:  1s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■     93% |  ETA:  1s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■     94% |  ETA:  1s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■    95% |  ETA:  1s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■    97% |  ETA:  1s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■    98% |  ETA:  0s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■   99% |  ETA:  0s
+1 Optimizing with step length 1.0000.
+The log-likelihood improved by 0.0456.
+Convergence test p-value: 0.5774. Not converged with 99% confidence; increasing sample size.
+Iteration 9 of at most 60:
+Sampling ■■■■■■■■■■■■■                     40% |  ETA:  2s
+Sampling ■■■■■■■■■■■■■■■                   46% |  ETA:  2s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■■           74% |  ETA:  1s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■■■■         80% |  ETA:  1s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■■■■■■       86% |  ETA:  0s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■     93% |  ETA:  0s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■   99% |  ETA:  0s
+Sampling ■■■■■■■■■■■■■                     41% |  ETA:  2s
+Sampling ■■■■■■■■■■■■■■■                   47% |  ETA:  2s
+Sampling ■■■■■■■■■■■■■■■■■■■■■             67% |  ETA:  1s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■■           74% |  ETA:  1s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■■■■         80% |  ETA:  1s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■■■■■■       87% |  ETA:  0s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■     93% |  ETA:  0s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■   99% |  ETA:  0s
+Sampling ■■■■■■■                           21% |  ETA:  5s
+Sampling ■■■■■■■■                          24% |  ETA:  5s
+Sampling ■■■■■■■■■                         27% |  ETA:  4s
+Sampling ■■■■■■■■■■                        30% |  ETA:  4s
+Sampling ■■■■■■■■■■■                       34% |  ETA:  4s
+Sampling ■■■■■■■■■■■■                      37% |  ETA:  4s
+Sampling ■■■■■■■■■■■■■                     40% |  ETA:  4s
+Sampling ■■■■■■■■■■■■■■                    43% |  ETA:  3s
+Sampling ■■■■■■■■■■■■■■■                   46% |  ETA:  3s
+Sampling ■■■■■■■■■■■■■■■■                  50% |  ETA:  3s
+Sampling ■■■■■■■■■■■■■■■■■                 53% |  ETA:  3s
+Sampling ■■■■■■■■■■■■■■■■■■                56% |  ETA:  3s
+Sampling ■■■■■■■■■■■■■■■■■■                58% |  ETA:  3s
+Sampling ■■■■■■■■■■■■■■■■■■■■              62% |  ETA:  2s
+Sampling ■■■■■■■■■■■■■■■■■■■■■             65% |  ETA:  2s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■            69% |  ETA:  2s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■■           72% |  ETA:  2s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■■■          75% |  ETA:  2s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■■■          78% |  ETA:  1s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■■■■         82% |  ETA:  1s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■■■■■        85% |  ETA:  1s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■■■■■■       88% |  ETA:  1s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■■■■■■■      91% |  ETA:  1s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■     94% |  ETA:  0s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■    97% |  ETA:  0s
+Sampling ■■■■■■                            18% |  ETA:  5s
+Sampling ■■■■■■■                           21% |  ETA:  5s
+Sampling ■■■■■■■■                          24% |  ETA:  5s
+Sampling ■■■■■■■■■                         27% |  ETA:  4s
+Sampling ■■■■■■■■■■                        31% |  ETA:  4s
+Sampling ■■■■■■■■■■■                       34% |  ETA:  4s
+Sampling ■■■■■■■■■■■■                      37% |  ETA:  4s
+Sampling ■■■■■■■■■■■■■                     40% |  ETA:  4s
+Sampling ■■■■■■■■■■■■■■                    43% |  ETA:  4s
+Sampling ■■■■■■■■■■■■■■■                   46% |  ETA:  3s
+Sampling ■■■■■■■■■■■■■■■■                  49% |  ETA:  3s
+Sampling ■■■■■■■■■■■■■■■■■                 52% |  ETA:  3s
+Sampling ■■■■■■■■■■■■■■■■■                 55% |  ETA:  3s
+Sampling ■■■■■■■■■■■■■■■■■■                58% |  ETA:  3s
+Sampling ■■■■■■■■■■■■■■■■■■■               61% |  ETA:  3s
+Sampling ■■■■■■■■■■■■■■■■■■■■              65% |  ETA:  2s
+Sampling ■■■■■■■■■■■■■■■■■■■■■             67% |  ETA:  2s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■            70% |  ETA:  2s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■■           73% |  ETA:  2s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■■■          76% |  ETA:  2s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■■■■         80% |  ETA:  1s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■■■■■        83% |  ETA:  1s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■■■■■■       86% |  ETA:  1s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■■■■■■■      89% |  ETA:  1s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■     92% |  ETA:  1s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■    95% |  ETA:  0s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■   99% |  ETA:  0s
+1 Optimizing with step length 1.0000.
+The log-likelihood improved by 0.0360.
+Convergence test p-value: 0.0001. Converged with 99% confidence.
+Finished MCMLE.
+Evaluating log-likelihood at the estimate. Setting up bridge sampling...
+Using 16 bridges: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 .
+Note: The constraint on the sample space is not dyad-independent. Null model likelihood is
+only implemented for dyad-independent constraints at this time. Number of observations is
+similarly poorly defined.  This means that all likelihood-based inference (LRT, Analysis of
+Deviance, AIC, BIC, etc.) is only valid between models with the same reference distribution
+and constraints.
+
+This model was fit using MCMC.  To examine model diagnostics and check for degeneracy, use
+the mcmc.diagnostics() function.

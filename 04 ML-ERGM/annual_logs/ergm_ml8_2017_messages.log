@@ -1,0 +1,227 @@
+ERGM message log
+Started: 2026-10-27 21:50:31.557436
+
+Model and/or observational constraints are not dyad-independent. Dyad imputation cannot be used. Please ensure your LHS network satisfies all constraints.
+Starting contrastive divergence estimation via CD-MCMLE:
+Iteration 1 of at most 60:
+Convergence test P-value:1.7e-225
+1 The log-likelihood improved by 0.3967.
+Iteration 2 of at most 60:
+Convergence test P-value:4.6e-62
+1 The log-likelihood improved by 0.08553.
+Iteration 3 of at most 60:
+Convergence test P-value:6.6e-11
+1 The log-likelihood improved by 0.01939.
+Iteration 4 of at most 60:
+Convergence test P-value:1e-01
+1 The log-likelihood improved by 0.005749.
+Iteration 5 of at most 60:
+Convergence test P-value:5.4e-03
+1 The log-likelihood improved by 0.00813.
+Iteration 6 of at most 60:
+Convergence test P-value:7.7e-02
+1 The log-likelihood improved by 0.006013.
+Iteration 7 of at most 60:
+Convergence test P-value:3.6e-01
+1 The log-likelihood improved by 0.00426.
+Iteration 8 of at most 60:
+Convergence test P-value:7.8e-02
+1 The log-likelihood improved by 0.005979.
+Iteration 9 of at most 60:
+Convergence test P-value:3.2e-01
+1 The log-likelihood improved by 0.004458.
+Iteration 10 of at most 60:
+Convergence test P-value:6.1e-03
+1 The log-likelihood improved by 0.008036.
+Iteration 11 of at most 60:
+Convergence test P-value:2.3e-03
+1 The log-likelihood improved by 0.008884.
+Iteration 12 of at most 60:
+Convergence test P-value:1.4e-01
+1 The log-likelihood improved by 0.005374.
+Iteration 13 of at most 60:
+Convergence test P-value:2.2e-01
+1 The log-likelihood improved by 0.004884.
+Iteration 14 of at most 60:
+Convergence test P-value:5e-01
+1 The log-likelihood improved by 0.00381.
+Iteration 15 of at most 60:
+Convergence test P-value:1.6e-01
+1 The log-likelihood improved by 0.005257.
+Iteration 16 of at most 60:
+Convergence test P-value:5.4e-01
+Convergence detected. Stopping.
+1 The log-likelihood improved by 0.003657.
+Finished CD.
+Starting Monte Carlo maximum likelihood estimation (MCMLE):
+Iteration 1 of at most 60:
+Sampling ■■■■■■                            18% |  ETA:  5s
+Sampling ■■■■■■■                           20% |  ETA:  5s
+Sampling ■■■■■■■■                          23% |  ETA:  5s
+Sampling ■■■■■■■■■                         26% |  ETA:  5s
+Sampling ■■■■■■■■■■                        29% |  ETA:  5s
+Sampling ■■■■■■■■■■■                       32% |  ETA:  4s
+Sampling ■■■■■■■■■■■                       35% |  ETA:  4s
+Sampling ■■■■■■■■■■■■                      38% |  ETA:  4s
+Sampling ■■■■■■■■■■■■■                     41% |  ETA:  4s
+Sampling ■■■■■■■■■■■■■■                    44% |  ETA:  4s
+Sampling ■■■■■■■■■■■■■■■                   47% |  ETA:  4s
+Sampling ■■■■■■■■■■■■■■■■                  50% |  ETA:  3s
+Sampling ■■■■■■■■■■■■■■■■■                 53% |  ETA:  3s
+Sampling ■■■■■■■■■■■■■■■■■■                55% |  ETA:  3s
+Sampling ■■■■■■■■■■■■■■■■■■                58% |  ETA:  3s
+Sampling ■■■■■■■■■■■■■■■■■■■               61% |  ETA:  3s
+Sampling ■■■■■■■■■■■■■■■■■■■■              64% |  ETA:  2s
+Sampling ■■■■■■■■■■■■■■■■■■■■■             67% |  ETA:  2s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■            70% |  ETA:  2s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■■           73% |  ETA:  2s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■■■          76% |  ETA:  2s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■■■■         79% |  ETA:  1s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■■■■■        82% |  ETA:  1s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■■■■■        85% |  ETA:  1s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■■■■■■       87% |  ETA:  1s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■■■■■■■      90% |  ETA:  1s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■     93% |  ETA:  0s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■    96% |  ETA:  0s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■   99% |  ETA:  0s
+1 Optimizing with step length 0.4807.
+The log-likelihood improved by 4.0037.
+Estimating equations are not within tolerance region.
+Iteration 2 of at most 60:
+Sampling ■■■■■■■■■■■■                      37% |  ETA:  2s
+Sampling ■■■■■■■■■■■■■■                    43% |  ETA:  2s
+Sampling ■■■■■■■■■■■■■■■■                  49% |  ETA:  2s
+Sampling ■■■■■■■■■■■■■■■■■■■               61% |  ETA:  1s
+Sampling ■■■■■■■■■■■■■■■■■■■■■             67% |  ETA:  1s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■■           72% |  ETA:  1s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■■■          78% |  ETA:  1s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■■■■■        83% |  ETA:  1s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■■■■■■■      89% |  ETA:  0s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■    95% |  ETA:  0s
+1 Optimizing with step length 1.0000.
+The log-likelihood improved by 1.9704.
+Estimating equations are not within tolerance region.
+Iteration 3 of at most 60:
+1 Optimizing with step length 1.0000.
+The log-likelihood improved by 0.2165.
+Estimating equations are not within tolerance region.
+Iteration 4 of at most 60:
+1 Optimizing with step length 1.0000.
+The log-likelihood improved by 0.1008.
+Estimating equations are not within tolerance region.
+Iteration 5 of at most 60:
+1 Optimizing with step length 1.0000.
+The log-likelihood improved by 0.0733.
+Convergence test p-value: 0.8938. Not converged with 99% confidence; increasing sample size.
+Iteration 6 of at most 60:
+Sampling ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■     93% |  ETA:  0s
+1 Optimizing with step length 1.0000.
+The log-likelihood improved by 0.2012.
+Estimating equations are not within tolerance region.
+Iteration 7 of at most 60:
+Sampling ■■■■■■■■■■■■■■■                   47% |  ETA:  1s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■     93% |  ETA:  0s
+1 Optimizing with step length 1.0000.
+The log-likelihood improved by 0.2140.
+Estimating equations are not within tolerance region.
+Estimating equations did not move closer to tolerance region more than 1 time(s) in 4 steps; increasing sample size.
+Iteration 8 of at most 60:
+Sampling ■■■■■■■■■■■                       34% |  ETA:  2s
+Sampling ■■■■■■■■■■■■■                     40% |  ETA:  2s
+Sampling ■■■■■■■■■■■■■■■                   46% |  ETA:  2s
+Sampling ■■■■■■■■■■■■■■■■■■■■■             66% |  ETA:  1s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■■           73% |  ETA:  1s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■■■■         79% |  ETA:  1s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■■■■■        85% |  ETA:  0s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■■■■■■■      91% |  ETA:  0s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■    96% |  ETA:  0s
+1 Optimizing with step length 1.0000.
+The log-likelihood improved by 0.0363.
+Convergence test p-value: 0.9694. Not converged with 99% confidence; increasing sample size.
+Iteration 9 of at most 60:
+Sampling ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■  100% |  ETA:  0s
+Sampling ■■■■■■■■■                         28% |  ETA:  3s
+Sampling ■■■■■■■■■■■                       32% |  ETA:  3s
+Sampling ■■■■■■■■■■■■                      36% |  ETA:  3s
+Sampling ■■■■■■■■■■■■■                     40% |  ETA:  3s
+Sampling ■■■■■■■■■■■■■■                    45% |  ETA:  2s
+Sampling ■■■■■■■■■■■■■■■■                  49% |  ETA:  2s
+Sampling ■■■■■■■■■■■■■■■■■                 55% |  ETA:  2s
+Sampling ■■■■■■■■■■■■■■■■■■■               59% |  ETA:  2s
+Sampling ■■■■■■■■■■■■■■■■■■■■              64% |  ETA:  2s
+Sampling ■■■■■■■■■■■■■■■■■■■■■             68% |  ETA:  1s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■■           73% |  ETA:  1s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■■■          77% |  ETA:  1s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■■■■■        82% |  ETA:  1s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■■■■■■       87% |  ETA:  1s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■■■■■■■      91% |  ETA:  0s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■    96% |  ETA:  0s
+1 Optimizing with step length 1.0000.
+The log-likelihood improved by 0.0486.
+Convergence test p-value: 0.6246. Not converged with 99% confidence; increasing sample size.
+Iteration 10 of at most 60:
+Sampling ■■■■■■■■■■■■■                     40% |  ETA:  2s
+Sampling ■■■■■■■■■■■■■■■                   45% |  ETA:  2s
+Sampling ■■■■■■■■■■■■■■■■■■■■              64% |  ETA:  1s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■            70% |  ETA:  1s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■■■          75% |  ETA:  1s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■■■■         81% |  ETA:  1s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■■■■■■       87% |  ETA:  0s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■     92% |  ETA:  0s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■    97% |  ETA:  0s
+Sampling ■■■■■                             12% |  ETA:  7s
+Sampling ■■■■■                             14% |  ETA:  8s
+Sampling ■■■■■■                            16% |  ETA:  8s
+Sampling ■■■■■■                            18% |  ETA:  7s
+Sampling ■■■■■■■                           20% |  ETA:  7s
+Sampling ■■■■■■■■                          23% |  ETA:  7s
+Sampling ■■■■■■■■                          25% |  ETA:  7s
+Sampling ■■■■■■■■■                         27% |  ETA:  7s
+Sampling ■■■■■■■■■■                        29% |  ETA:  7s
+Sampling ■■■■■■■■■■                        31% |  ETA:  7s
+Sampling ■■■■■■■■■■■                       33% |  ETA:  6s
+Sampling ■■■■■■■■■■■■                      35% |  ETA:  6s
+Sampling ■■■■■■■■■■■■                      37% |  ETA:  6s
+Sampling ■■■■■■■■■■■■■                     40% |  ETA:  6s
+Sampling ■■■■■■■■■■■■■■                    42% |  ETA:  6s
+Sampling ■■■■■■■■■■■■■■                    44% |  ETA:  5s
+Sampling ■■■■■■■■■■■■■■■                   46% |  ETA:  5s
+Sampling ■■■■■■■■■■■■■■■                   48% |  ETA:  5s
+Sampling ■■■■■■■■■■■■■■■■                  50% |  ETA:  5s
+Sampling ■■■■■■■■■■■■■■■■■                 52% |  ETA:  5s
+Sampling ■■■■■■■■■■■■■■■■■                 54% |  ETA:  4s
+Sampling ■■■■■■■■■■■■■■■■■■                57% |  ETA:  4s
+Sampling ■■■■■■■■■■■■■■■■■■■               59% |  ETA:  4s
+Sampling ■■■■■■■■■■■■■■■■■■■               61% |  ETA:  4s
+Sampling ■■■■■■■■■■■■■■■■■■■■              63% |  ETA:  4s
+Sampling ■■■■■■■■■■■■■■■■■■■■              65% |  ETA:  3s
+Sampling ■■■■■■■■■■■■■■■■■■■■■             67% |  ETA:  3s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■            69% |  ETA:  3s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■            71% |  ETA:  3s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■■           73% |  ETA:  3s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■■■          76% |  ETA:  2s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■■■          78% |  ETA:  2s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■■■■         80% |  ETA:  2s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■■■■■        82% |  ETA:  2s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■■■■■        84% |  ETA:  2s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■■■■■■       86% |  ETA:  1s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■■■■■■■      88% |  ETA:  1s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■■■■■■■      91% |  ETA:  1s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■     93% |  ETA:  1s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■    95% |  ETA:  0s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■    97% |  ETA:  0s
+Sampling ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■   99% |  ETA:  0s
+1 Optimizing with step length 1.0000.
+The log-likelihood improved by 0.0377.
+Convergence test p-value: 0.0014. Converged with 99% confidence.
+Finished MCMLE.
+Evaluating log-likelihood at the estimate. Setting up bridge sampling...
+Using 16 bridges: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 .
+Note: The constraint on the sample space is not dyad-independent. Null model likelihood is
+only implemented for dyad-independent constraints at this time. Number of observations is
+similarly poorly defined.  This means that all likelihood-based inference (LRT, Analysis of
+Deviance, AIC, BIC, etc.) is only valid between models with the same reference distribution
+and constraints.
+
+This model was fit using MCMC.  To examine model diagnostics and check for degeneracy, use
+the mcmc.diagnostics() function.
